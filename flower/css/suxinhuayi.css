@@ -1,0 +1,136 @@
+html, body, h1, h2, h3, h4, h5, h6, p, pre, ol, ul, li, form, input, textarea {
+    margin: 0px;
+    padding: 0px;
+    outline-style: none;
+}
+
+.beijing1{
+    width: 100%;
+    height: 604px;
+/*    background: #16b0bc;*/
+    padding: 70px 0;
+}
+.zhuye1{
+    width: 1170px;
+    height: 604px;
+/*    background: red;*/
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.biaoti1{
+    width: 400px;
+    height: 43px;
+    margin:0 auto;
+}
+.biaoti3{
+    width: 300px;
+    height: 43px;
+    font-size: 36px;
+    font-weight: 300;
+    color: #37474f;
+    text-align: center;
+    float: left;
+}
+.box{
+    width: 70px;
+    height: 33px;
+    margin-top: 10px;
+/*    background: #47afff;*/
+    float: left;
+    font-size: 12px;
+    text-align: center;
+/*    text-align: center;*/
+    line-height: 33px;
+    transition: color linear 0.5s;
+}
+.box:hover{
+/*    background: #16b0dc;*/
+    text-decoration:none;
+}
+.box a{
+    text-decoration: none;/*修饰*/
+    color: white;
+}
+.biaoti2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    color: #5e7387;
+    height: 24px;
+    margin-top: 20px;
+}
+.neirong1{
+    width: 100%;
+    height: 516px;
+/*    background: yellow;*/
+}
+.left{
+    width: 75px;
+    height: 516px;
+/*    background: green;*/
+    float: left;
+    line-height:516px;
+    text-align: center;
+}
+.left a img{
+    width: 30px;
+    height: 30px;
+/*    line-height: 516px;*/
+/*    margin-top: 243px;*/
+}
+.center{
+    width: 1020px;
+    height: 515px;
+    float: left;
+/*    background:greenyellow;*/
+    overflow: hidden;
+}
+.hualei{
+    width: 1400px;
+    height: 100%;
+/*    background: #333333;*/
+}
+.tu{
+    float: left;
+    width: 320px;
+    height: 100%;
+    margin-right: 30px;
+/*    background: #16b0dc;*/
+    text-align: center;
+/*    padding-top: 50px;*/
+}
+.yuan{
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+/*    background: aqua;*/
+    border-radius:100px;
+    overflow: hidden;
+}
+.yuan img{
+    width: 200px;
+    height: 200px;
+}
+.tu h3{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: #37474f;
+    margin:30px;
+}
+.tu p{
+    font-size: 14px;
+    font-weight: 200;
+    color: #37474f;
+    padding:20px;
+    margin-left: 20px;
+    text-align: left;
+}
+.tu a img{
+    width: 200px;
+    height: 30px;
+    margin:0 auto ;
+}
+
+.
+

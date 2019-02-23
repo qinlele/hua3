@@ -1,0 +1,30 @@
+html,body,h1,h2,h3,h4,h5,h6,p,pre,ol,ul,li,input,textarea{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.first{
+    padding:70px 0;
+    width: 100%;
+    height:707px ;
+    background:#f5f5f5;
+    margin-top: 50px;
+}
+h3{
+    text-align: center;
+    font-family: "Microsoft YaHei UI";
+}
+p{
+    font-size: 14px;
+    text-align: center;
+    font-family: "Microsoft YaHei UI";
+    margin-top: 15px;
+}
+p.second{
+    margin: 40px;
+}
+.third{
+    text-align: center;
+    margin-top: 60px;
+}
+

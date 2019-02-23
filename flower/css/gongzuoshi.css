@@ -1,0 +1,51 @@
+html, body, h1, h2, h3, h4, h5, h6, p, pre, ol, ul, li, form, input, textarea {
+    margin: 0px;
+    padding: 0px;
+    outline-style: none;
+}
+
+.beijing {
+    width: 100%;
+    height: 908px;
+    background: white;
+}
+
+.zhuye {
+
+    width: 1170px;
+    height: 100%;
+    margin: auto auto;
+/*    background: red;*/
+    padding-top: 70px;
+}
+
+.biaoti {
+    border: 1px;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 300;
+    width: 100%;
+    height: 43px;
+/*    background: blue;*/
+    font-family: "Microsoft YaHei UI";
+}
+.neirong{
+    width: 100%;
+    height: 675px;
+/*    background: green;*/
+    margin-top:100px;
+    font-family: "Microsoft YaHei UI";
+    font-size: 16px;
+    text-align: center;
+/*    padding-top: 20px;*/
+}
+.huayu{
+    margin: 20px;
+}
+.img{
+    width: 530px;
+    height: 340px;
+    margin-top:50px;
+    margin: 0 auto;
+}
+
